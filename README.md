@@ -11,7 +11,7 @@ Here we have project screenshot :
 
 
 Front Page:
-![screenshot](japan1.png)
+![screenshot](Japan1.png)
 
 
 Login :
